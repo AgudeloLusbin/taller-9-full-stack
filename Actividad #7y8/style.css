@@ -4,10 +4,16 @@
     box-sizing: border-box;
 }
 
+body{
+    display: flex;
+    justify-content: center;
+}
+
 nav{
     background-color:#17181C;
     text-align: center;
     height: 60px;
+    width: 800px;
 }
 
 nav ul{
