@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    margin: 25px 25px;
+}
+
+a{
+    text-decoration: none;
+    display: flex;
+}
+
+#enlace1{
+    color: green;
+    padding: 25px 25px;
+}
+
+#enlace1:hover{
+    color: black;
+    text-decoration: line-through;
+}
+
+#enlace2{
+    color: blue;
+    padding: 25px 25px;
+}

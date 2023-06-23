@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: auto;
+}
+
+p{
+    margin: auto;
+    text-align: center;
+    text-decoration: none;
+    width: 50%;
+    height: 50%;
+}
+
+#span1{
+    color: green;
+    text-decoration: underline;
+}
+
+#span2{
+    color: red;
+}
+
+#span3{
+    text-decoration: overline underline;
+}
+
+#span4{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#span5{
+    color: blue;    
+}
+
+#span6{
+    color: red;
+    text-decoration: underline;
+}

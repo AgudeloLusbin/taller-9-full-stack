@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+table{
+    background-color: yellow;
+    margin: 15px 15px;
+}
+
+table tr #th1 i span{
+    font-size: 18px;
+}
+
+table tr #th2 i span{
+    font-size: 18px;
+}
+
+table tr #th1{
+    border-right: none;
+    font-size: 13px;
+}
+
+table tr #th2{
+    border-left: none;
+    font-size: 13px;
+}
+
+table tr th{
+    border: 1px dotted black;
+    color: red;
+}
+
+table tr td{
+    border: 1px dotted black;
+}
+
+table tr #td1{
+    border-bottom: 1px dashed red;
+}
