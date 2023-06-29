@@ -8,20 +8,20 @@ table{
     margin: 15px 15px;
 }
 
-table tr #th1 i span{
+table tr .th1 i span{
     font-size: 18px;
 }
 
-table tr #th2 i span{
+table tr .th2 i span{
     font-size: 18px;
 }
 
-table tr #th1{
+table tr .th1{
     border-right: none;
     font-size: 13px;
 }
 
-table tr #th2{
+table tr .th2{
     border-left: none;
     font-size: 13px;
 }
@@ -35,6 +35,6 @@ table tr td{
     border: 1px dotted black;
 }
 
-table tr #td1{
+table tr .td1{
     border-bottom: 1px dashed red;
 }

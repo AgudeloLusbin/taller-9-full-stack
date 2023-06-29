@@ -12,17 +12,17 @@ a{
     display: flex;
 }
 
-#enlace1{
+.enlace1{
     color: green;
     padding: 25px 25px;
 }
 
-#enlace1:hover{
+.enlace1:hover{
     color: black;
     text-decoration: line-through;
 }
 
-#enlace2{
+.enlace2{
     color: blue;
     padding: 25px 25px;
 }

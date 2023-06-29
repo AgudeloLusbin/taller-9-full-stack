@@ -3,41 +3,37 @@
     padding: 0;
 }
 
-.container{
-    margin: auto;
-}
-
 p{
-    margin: auto;
+    margin: 25px auto;
     text-align: center;
     text-decoration: none;
     width: 50%;
     height: 50%;
 }
 
-#span1{
+.span1{
     color: green;
     text-decoration: underline;
 }
 
-#span2{
+.span2{
     color: red;
 }
 
-#span3{
+.span3{
     text-decoration: overline underline;
 }
 
-#span4{
+.span4{
     font-size: 40px;
     font-weight: bold;
 }
 
-#span5{
+.span5{
     color: blue;    
 }
 
-#span6{
+.span6{
     color: red;
     text-decoration: underline;
 }

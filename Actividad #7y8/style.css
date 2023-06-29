@@ -34,7 +34,7 @@ nav ul li a{
     padding: 18px;
 }
 
-#li a:hover{
+.li a:hover{
     background: purple;
 }
 
